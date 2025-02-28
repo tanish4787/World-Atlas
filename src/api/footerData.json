@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "New Delhi, Delhi"
+  },
+  {
+    "id": 2,
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "0101010101"
+  },
+  {
+    "id": 3,
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "example@example.com"
+  }
+]
